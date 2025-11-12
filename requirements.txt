@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+requests
+streamlit-autorefresh
+yfinance
+groq
+matplotlib
